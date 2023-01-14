@@ -1,0 +1,9 @@
+name: donut
+version: 0.0.1
+
+authors:
+  - UX-01 <117791703+UX-01@users.noreply.github.com>
+
+crystal: 1.6.2
+
+license: MIT
