@@ -1,6 +1,18 @@
 module Donut
   VERSION = "0.0.1"
 
+puts "
+    dMMMMb  .aMMMb  dMMMMb  dMP dMP dMMMMMMP 
+   dMP VMP dMP dMP dMP dMP dMP dMP    dMP    
+  dMP dMP dMP dMP dMP dMP dMP dMP    dMP     
+ dMP.aMP dMP.aMP dMP dMP dMP.aMP    dMP      
+dMMMMP   VMMMP  dMP dMP  VMMMP     dMP  
+
+  v {0.0.1} // Fresh out the KFConsole
+
+
+"
+
   p = "/usr/share/dict/words"
 
   begin
